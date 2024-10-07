@@ -1,0 +1,2 @@
+# Electric_vehicle_range_prediction
+Предсказание запаса хода электробуса
